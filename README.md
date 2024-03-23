@@ -1,4 +1,4 @@
-# Welocity: JAVA AWT+SWING Based Sneakers Shopping Application
+# Welocity: Sneakers Shopping Application
 
 Welocity is a Java AWT and Swing-based application designed for shopping for sneakers. It provides a user-friendly interface for browsing, selecting, and purchasing sneakers online. With features like user authentication, Hamburger Menu, and a product catalog, Welocity offers a seamless shopping experience for sneaker enthusiasts.
 
